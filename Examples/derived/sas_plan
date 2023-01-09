@@ -1,0 +1,6 @@
+(pick-up c robot)
+(stack c b robot)
+(pick-up d robot)
+(stack d c robot)
+(pick-up a robot)
+; cost = 5 (unit cost)
